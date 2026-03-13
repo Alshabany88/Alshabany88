@@ -1,4 +1,4 @@
-# 👋 مرحباً، أنا إبراهيم الشباني (Alshabany)
+# 👋 مرحباً، أنا إبراهيم الشعباني (Alshabany)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cairo&size=30&duration=3000&color=2B9CF4&center=true&vCenter=true&width=600&lines=مطور+بوتات+تلجرام;مبرمج+بايثون;مطور+واجهات+API;محتوى+تقني+عربي" alt="Typing SVG">
